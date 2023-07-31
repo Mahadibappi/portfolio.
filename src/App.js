@@ -1,7 +1,9 @@
+import Header from "./header/Header";
+
 function App() {
   return (
     <div className="App">
-      <h3>this is my portfolio</h3>
+      <Header />
     </div>
   );
 }
