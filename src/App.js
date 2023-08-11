@@ -2,6 +2,7 @@ import About from "./about/About";
 import Contact from "./contact/Contact";
 import Header from "./header/Header";
 import Nav from "./nav/Nav";
+import Portfolio from "./portfolio/Portfolio";
 import { Skill } from "./skills/Skill";
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Nav />
       <About />
       <Skill />
+      <Portfolio />
       <Contact />
     </div>
   );
