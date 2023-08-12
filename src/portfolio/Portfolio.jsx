@@ -18,14 +18,14 @@ const data = [
   {
     id: 1,
     title: "A Social Media Web App",
-    image: project2,
+    image: project3,
     github: "https://github.com/Mahadibappi/social-media-client",
     demo: "https://social-media-client-one.vercel.app/home",
   },
   {
     id: 1,
     title: "An Inventory Management App",
-    image: project3,
+    image: project2,
     github: "https://github.com/Mahadibappi/inventory-frontend",
     demo: "https://inventory-client-flame.vercel.app/dashboard",
   },
