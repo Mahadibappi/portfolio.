@@ -28,7 +28,7 @@ export const Skill = () => {
               <BsFillCheckCircleFill className="skill_icon" />
               <div>
                 <h4>Redux</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
             <article className="skill_detail">

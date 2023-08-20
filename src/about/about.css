@@ -1,6 +1,6 @@
 .about_container {
   display: grid;
-  grid-template-columns: 30% 50%;
+  grid-template-columns: 30% 60%;
   gap: 15%;
 }
 
@@ -30,7 +30,7 @@
 
 .about_content {
   font-size: 1rem;
-  text-align: center;
+  text-align: justify;
   margin-top: 2rem;
   color: var(--color-light);
 }

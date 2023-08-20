@@ -15,12 +15,16 @@ const About = () => {
         </div>
         <div className="about_content">
           <article>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda,
-            at in eum corrupti nisi eaque neque labore asperiores voluptates
-            minima. Maiores eligendi quidem praesentium sed quia iusto aut
-            repellendus ut eius eaque optio ducimus, accusantium odio alias esse
-            adipisci, dolorum atque quo numquam! Molestias fuga esse numquam cum
-            dolores. Atque!
+            As a dedicated front end focused MREN stack developer, My passion
+            for clean, maintainable code drives me to seek up-to-date with the
+            latest industry trends and best practices. My portfolio showcases a
+            range of projects, from complex dashboard platforms to portfolio
+            websites. Throughout my journey I encountered several significant
+            challenges during various projects, each of which bring an
+            opportunity for growth and innovation. One notable instance was when
+            I faced a data synchronization issue between the front-end and the
+            back-end API. With determination and a problem-solving mindset, I
+            solved the issue through rigorous testing and debugging.
           </article>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
