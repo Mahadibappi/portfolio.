@@ -2,8 +2,8 @@ import React from "react";
 import "./portfolio.css";
 import project1 from "../assets/project-01.png";
 import project2 from "../assets/project-02.png";
-import project3 from "../assets/project-03.png";
-import project4 from "../assets/project-4.png";
+import project3 from "../assets/project-3.png";
+import project4 from "../assets/project-04.png";
 import project5 from "../assets/project-05.png";
 import project6 from "../assets/project-06.png";
 
@@ -17,32 +17,32 @@ const data = [
   },
   {
     id: 2,
-    title: "An Inventory Management App",
+    title: "A Real Estate App",
     image: project2,
-    github: "https://github.com/Mahadibappi/inventory-frontend",
-    demo: "https://inventory-client-flame.vercel.app/dashboard",
+    github: "https://github.com/Mahadibappi/MERN-Real-Estate",
+    demo: "https://mern-real-estate.vercel.app/",
   },
   {
     id: 3,
-    title: "A Social Media Web App",
+    title: "An Inventory Management App",
     image: project3,
-    github: "https://github.com/Mahadibappi/social-media-client",
-    demo: "https://social-media-client-one.vercel.app/home",
+    github: "https://github.com/Mahadibappi/inventory-frontend",
+    demo: "https://inventory-client-flame.vercel.app/dashboard",
   },
 
   {
     id: 4,
-    title: "A Product Selling App",
+    title: "Travel Booking App",
     image: project4,
-    github: "https://github.com/Mahadibappi/full-stack-ecommerce-app-client",
-    demo: "https://full-stack-ecommerce-app-client-lac.vercel.app",
+    github: "https://github.com/Mahadibappi/tour-exploer-app-client",
+    demo: "https://tour-exploer-app-client.vercel.app/login",
   },
   {
     id: 5,
-    title: "Travel Booking App",
+    title: "A Social Media App",
     image: project5,
-    github: "https://github.com/Mahadibappi/tour-exploer-app-client",
-    demo: "https://tour-exploer-app-client.vercel.app/login",
+    github: "https://github.com/Mahadibappi/social-media-client",
+    demo: "https://social-media-client-one.vercel.app/home",
   },
   {
     id: 6,
